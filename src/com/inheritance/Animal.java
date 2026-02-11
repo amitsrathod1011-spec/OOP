@@ -1,0 +1,11 @@
+package com.inheritance;
+
+public class Animal {
+	
+	public int age;
+	public String type;
+	
+	public void sound() {
+		System.out.println("Animal makes a sound");
+	}
+}
